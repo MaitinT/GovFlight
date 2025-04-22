@@ -1,0 +1,7 @@
+Date,Start location,Start code,End location,End code,Start time,Start Unix,End time,End Unix,Elapsed time (minutes),Aircraft,Event(s)
+08/25/2021,Albany,ALB,E. 34th Street Helipad,6N5,12:21 PM,1629894060,1:15 PM,1629897300,54,Helicopter,
+08/30/2021,Buffalo,BUF,LaGuardia,LGA,4:50 AM,1630299000,6:00 AM,1630303200,70,King Air,
+08/30/2021,LaGuardia,LGA,Albany,ALB,8:24 AM,1630311840,9:30 AM,1630315800,66,King Air,
+08/30/2021,Albany,ALB,Buffalo,BUF,8:17 PM,1630354620,9:15 PM,1630358100,58,King Air,
+08/31/2021,Buffalo,BUF,Albany,ALB,1:03 PM,1630414980,2:00 PM,1630418400,57,King Air,
+09/02/2021,Albany,ALB,LaGuardia,LGA,8:46 AM,1630572360,9:45 AM,1630575900,59,Helicopter,
